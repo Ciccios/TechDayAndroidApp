@@ -2,10 +2,11 @@
 <resources>
 
     <string name="app_name">TechDay Android App</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="menu1">Settings</string>
+    <string name="menu2">New Screen</string>
 
     <string name="helloField">Hello Ciccio Android App</string>
-    <string name="helloField2">Screen 2</string>
-    <string name="action_settings2">New Screen</string>
+    <string name="helloField2">New Screen Opened!! YIPPIE</string>
 
 </resources>
