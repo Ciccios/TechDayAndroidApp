@@ -13,4 +13,13 @@
         android:textStyle="bold"
         android:textSize="28sp" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Toast"
+        android:id="@+id/button"
+        android:layout_below="@+id/hello"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="93dp" />
+
 </RelativeLayout>
